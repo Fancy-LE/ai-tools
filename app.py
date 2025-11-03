@@ -11,7 +11,7 @@ import uuid
 app = Flask(__name__)
 
 # 配置
-API_KEY = "sk-qv1SVWJ5RCyd53i6VbNlhpXPrTluPuMfmLcxasjXEDtmFtHb"
+API_KEY = ""
 BASE_URL = "https://api.huiyan-ai.cn/v1"
 
 # 可用模型列表
